@@ -1,0 +1,1 @@
+class is basically a blueprint for creating Instances and each unique employee that we create using our employee class will be an instance of that class
